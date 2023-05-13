@@ -98,9 +98,6 @@ main tonic-split > tonic-split-right {
   border-left: 1px solid black;
 }
 
-
-
-
 /* open note */
 .note_body_full {
   min-height: 100%;
