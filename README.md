@@ -1,6 +1,7 @@
 # NOTEBOOK + TONIC
+___
+##### web version 
+___
 
-# web version 
-
-# to run vite...........npm run dev
-# open local server.....http://localhost:5173/
+* to run vite...........npm run dev
+* open local server.....http://localhost:5173/
