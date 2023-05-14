@@ -4,13 +4,11 @@
 
 Website is built with [Vite](https://vitejs.dev/guide/) using [Tonic](https://tonicframework.dev/) - a low profile component framework for the web.
 
-To run in a browser: 
-<br>
-run vite first:
+To open in browser with local server, run vite: 
 ```sh
 npm run dev
 ```
-then open local server:
+and then open this link:
 ```sh
 http://localhost:5173/
 ```
